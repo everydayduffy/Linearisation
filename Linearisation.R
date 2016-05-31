@@ -21,7 +21,7 @@ coeffs <- read.table("C:/Dropbox/PhD/Kit/Canon_D30/Characterisation/Sunny_WB_1_6
 ##FUNCTIONS##
 #############
 
-source("C:/Dropbox/PhD/Coding_Projects/Linearising_TIFFs/Linearising_TIFFs_Functions.R")
+source("C:/Dropbox/PhD/Coding_Projects/Linearisation/Linearisation_Functions.R")
 
 ##############
 ##PROCESSING##
